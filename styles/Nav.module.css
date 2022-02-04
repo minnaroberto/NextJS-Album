@@ -1,0 +1,23 @@
+.nav {
+    height: 50px;
+    padding: 10px;
+    background: #000;
+    color: #fff;
+    display: flex;
+    align-items:center;
+    justify-content: left;
+  }
+  
+  .nav ul {
+    display: flex;
+    color: white; 
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin-left: 2rem;
+  }
+  
+  .nav ul li a {
+    margin: 5px 15px;
+    color: white;
+  }
